@@ -5,4 +5,4 @@ Hardware: ESP32-S3, 4" ILI9488 TFT with FT6336U touch controller
 
 Language: ANNEX RDS (https://cicciocb.com/)
 
-![alt text](https://github.com/Kalrkloss/surroundamp/blob/main/hardware/pictures/PXL_20250513_070947914.jpg?raw=true)
+![alt text](https://github.com/Kalrkloss/surroundamp/blob/main/hardware/pictures/PXL_20250520_084929026.MP.jpg?raw=true)
